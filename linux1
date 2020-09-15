@@ -1,0 +1,28 @@
+julia@julia-HP-Pavilion-Notebook:~$ ls
+Bureau  Documents  Images  Modèles  Musique  Public  snap  Téléchargements  Vidéos
+julia@julia-HP-Pavilion-Notebook:~$ pwd
+/home/julia
+julia@julia-HP-Pavilion-Notebook:~$ cd Images
+julia@julia-HP-Pavilion-Notebook:~/Images$ cd
+julia@julia-HP-Pavilion-Notebook:~$ cd/opt
+bash: cd/opt: Aucun fichier ou dossier de ce type
+julia@julia-HP-Pavilion-Notebook:~$ cd/usr/bin
+bash: cd/usr/bin: Aucun fichier ou dossier de ce type
+julia@julia-HP-Pavilion-Notebook:~$ cd
+julia@julia-HP-Pavilion-Notebook:~$ cd~
+
+La commande « cd~ » n'a pas été trouvée, voulez-vous dire :
+
+  commande « cdi » du deb cdo (1.9.9~rc1-1)
+  commande « cdo » du deb cdo (1.9.9~rc1-1)
+  commande « cd5 » du deb cd5 (0.1-4)
+  commande « cdb » du deb tinycdb (0.78build1)
+  commande « cdw » du deb cdw (0.8.1-1build4)
+  commande « cde » du deb cde (0.1+git9-g551e54d-1.1build1)
+  commande « cdp » du deb irpas (0.10-7)
+
+Essayez : sudo apt install <nom du deb>
+
+julia@julia-HP-Pavilion-Notebook:~$ cd~/Music
+bash: cd~/Music: Aucun fichier ou dossier de ce type
+julia@julia-HP-Pavilion-Notebook:~$ 
